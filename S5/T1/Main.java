@@ -15,7 +15,7 @@ public class Main{
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     String str = sc.nextLine();
-    test.solution(n);
+    test.solution(str);
   }
 }
 
