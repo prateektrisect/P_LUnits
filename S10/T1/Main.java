@@ -32,7 +32,7 @@ public class Main{
     for(int i=0; i<x; i++)  
     {  
          
-        array1[i]=sc.nextInt();  
+        array1[i]=sc1.nextInt();  
     } 
     test.solution(array,array1);
   }
