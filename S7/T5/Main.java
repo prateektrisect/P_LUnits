@@ -17,12 +17,13 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    String str = sc.nextLine();
-    String[] array = new String[str]; 
+    int n = sc.nextLine();
+    String[] array = new String[str];
+    Scanner sc1 = new Scanner(System.in);
     for(int i=0; i<n; i++)  
     {  
          
-        array[i]=sc.nextLine();  
+        array[i]=sc1.nextLine();  
     }  
     test.solution(array);
   }
