@@ -13,8 +13,8 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    String str = sc.nextLine();
-    String[] array = new String[str]; 
+    int n = sc.nextInt();
+    String[] array = new String[n]; 
     for(int i=0; i<n; i++)  
     {  
          
