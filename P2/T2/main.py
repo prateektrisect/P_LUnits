@@ -5,7 +5,5 @@ if __name__ == "__main__":
   
   
 # Remember the output should match exactly
+# no need to assign input value
 # Write your code here
-    
-
-  
