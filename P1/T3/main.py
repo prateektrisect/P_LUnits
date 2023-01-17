@@ -1,4 +1,11 @@
+# Test code
+# Don't change anything below this line
 if __name__ == '__main__':
-  #Use for loop from 1 to n
-  #write your code here
+  n = int(input())
+
+# Complete the sample code provided below
+    for i in range(1, n+1):
+      # write your code here
   
+
+
