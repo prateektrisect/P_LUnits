@@ -3,10 +3,12 @@
 # Don't change anything in this block
 if __name__ == "__main__":
   lst1 = []  
-  lst1 = [int(item) for item in input("Enter the list items : ").split()]
+  n1 = int(input())
+  lst1 = [int(item) for item in input().split()]
 
   lst2 = []  
-  lst2 = [item for item in input("Enter the list items : ").split()]
+  n2 = int(input())
+  lst2 = [item for item in input().split()]
 
   
 # Write your code here 
