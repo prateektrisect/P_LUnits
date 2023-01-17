@@ -1,3 +1,10 @@
 if __name__ == '__main__':
-  #Use for loop from 1 to n
-  #Write your code here
+ n = int(input())
+  
+  
+  
+# initialize variable sum here
+
+for i in range(1, n+1):
+# write your code here
+     
