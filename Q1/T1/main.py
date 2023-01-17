@@ -6,7 +6,7 @@ if __name__ == "__main__":
 # Write your code here 
 # Remember the output should match exactly
 # value to string variable st, you don't need to assign 
-# apply if to check character is z then count +1
+
       
 
     
