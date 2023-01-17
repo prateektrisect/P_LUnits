@@ -1,3 +1,11 @@
-if __name__ == '__main__':
-  # Use for loop from 1 to n
-  # Write your code here
+# Test code
+# Don't change anything in this block
+if __name__ == "__main__":
+  n = int(input())
+  
+  
+# Remember the output should match exactly
+# Write your code here
+    
+
+  
