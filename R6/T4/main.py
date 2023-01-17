@@ -1,3 +1,11 @@
-if __name__ == '__main__'
+# Test code
+# Don't change anything in this block
+if __name__ == "__main__":
+  lst1 = []  
+  n1 = int(input())
+  lst1 = [int(item) for item in input().split()]
   
-  # Write your code here
+# Write your code here 
+# values to list lst1, you don't 
+# need to assign any values to list lst1
+ 
