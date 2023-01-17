@@ -4,8 +4,11 @@ if __name__ == "__main__":
   n = int(input())
   
   
-# Remember the output should match exactly
-# Write your code here
+
+# Here testing system will provide
+# values to variable n, you don't 
+# need to assign any values to them
     
+# Write your code here
 
   
