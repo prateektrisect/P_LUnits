@@ -1,9 +1,9 @@
 # Given function
-def evenOdd(n):
+def evenOdd(ele):
   if(n%2==0):
-    print(str(n) + ":even")
+    print(str(ele) + ":even")
   else:
-    print(str(n) + ":odd")
+    print(str(ele) + ":odd")
 
 # Test code
 # Don't change anything in this block
