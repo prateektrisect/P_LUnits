@@ -3,7 +3,7 @@
 if __name__ == "__main__":
   n = int(input())
   
-# Write square function here 
+# Copy square function here and run it
 # values to variable n, you don't 
 # need to assign any value to n
  
