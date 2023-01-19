@@ -5,7 +5,7 @@
 # Test code
 # Don't change anything in this block
 if __name__ == "__main__":
-  n = input()
+ st = input()
   
 # Write your code here 
 # to Call the function
