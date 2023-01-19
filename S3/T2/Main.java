@@ -1,5 +1,9 @@
-# Given function copy here
-
+# Given function
+def evenOdd(n):
+  if(n%2==0):
+    print(str(n) + ":even")
+  else:
+    print(str(n) + ":odd")
 
 # Test code
 # Don't change anything in this block
@@ -13,4 +17,4 @@ if __name__ == "__main__":
   
 # Write code here 
 # and call your function 
-# passing list lst1 as input
+# passing elements of the list lst1 as input to the function
