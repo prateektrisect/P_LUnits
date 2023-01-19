@@ -1,12 +1,12 @@
 # Given function
 def drinks(ele):
-  if((n%2==0) and (n%3!=0)):
+  if((ele%2==0) and (ele%3!=0)):
     print("Pepsi")
-  elif((n%2!=0) and (n%3==0)):
+  elif((ele%2!=0) and (ele%3==0)):
     print("Coke")
-  elif((n%2==0) and (n%3==0)):
+  elif((ele%2==0) and (ele%3==0)):
     print("PepsiCoke")
-  else(n%2==0):
+  else(ele%2==0):
     print("Pepsi")
   
 
