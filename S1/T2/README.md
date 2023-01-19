@@ -1,5 +1,5 @@
 ## Problem Statement
-Use square function from Task T1 to print square of 11, 17 and 23.
+Use square function to print square of 11, 17 and 23.
 
 **Sample Test Case**
 ```
