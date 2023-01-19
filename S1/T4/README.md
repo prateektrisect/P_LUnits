@@ -1,5 +1,5 @@
 ## Problem Statement
-Add another function to Task 2 named cube which takes n as input and prints cube of 
+Add another function to the square() function named cube which takes n as input and prints cube of 
 n. Use these functions to print cube and square of every element from the input list.
 
   
