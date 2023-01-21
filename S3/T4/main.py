@@ -6,7 +6,7 @@ def drinks(ele):
     print("Coke")
   elif((ele%2==0) and (ele%3==0)):
     print("PepsiCoke")
-  else(ele%2==0):
+  else:
     print("Pepsi")
   
 
