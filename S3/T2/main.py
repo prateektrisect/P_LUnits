@@ -1,6 +1,6 @@
 # Given function
 def evenOdd(ele):
-  if(n%2==0):
+  if(ele%2==0):
     print(str(ele) + ":even")
   else:
     print(str(ele) + ":odd")
