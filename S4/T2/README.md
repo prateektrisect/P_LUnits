@@ -1,5 +1,5 @@
 ## Problem Statement
-Given an integer array as input. Use is Multiple Of 3 function from Task 1.1 to print 
+Given an integer array as input. Use is MultipleOf3 function given in the code template to print 
 Yes/No for each element in the array.
 
 
