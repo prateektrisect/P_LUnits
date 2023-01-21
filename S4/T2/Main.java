@@ -1,26 +1,20 @@
-import java.util.*;
-import java.util.Scanner;
-public class Main{
+# Given function
+def MultipleOf3(ele):
+  if(ele%3==0):
+    print(str(ele) + ":Yes")
+  else:
+    print(str(ele) + ":No")
 
-  void solution(int[] array) {
-      
-    // Write code here
-   
-    
-  }
-
-  //Test code
-  //Don't change anything below this line
-  public static void main(String[] args){
-    Main test = new Main();
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    int[] array = new int[n]; 
-    for(int i=0; i<n; i++)  
-    {  
-         
-        array[i]=sc.nextInt();  
-    }  
-    test.solution(array);
-  }
-}
+# Test code
+# Don't change anything in this block
+if __name__ == "__main__":
+  # For list of integers
+  lst1 = []  
+  n = int(input())
+  lst1 = [int(item) for item in input().split()]
+  
+  
+  
+# Write code here 
+# and call your function 
+# passing elements of the list lst1 as input to the function
