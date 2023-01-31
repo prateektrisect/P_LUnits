@@ -8,7 +8,6 @@
 
 # Test code
 # Don't change anything in this block
-if __name__ == "__main__":
   n = int(input())
   
 #call your square() function here
