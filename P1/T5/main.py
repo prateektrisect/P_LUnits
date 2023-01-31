@@ -1,4 +1,5 @@
-if __name__ == '__main__':
+# Test code
+# Don't change anything in this block
  n = int(input())
   
   
