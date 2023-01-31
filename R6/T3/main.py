@@ -1,6 +1,5 @@
 # Test code
 # Don't change anything in this block
-if __name__ == "__main__":
   lst1 = []  
   n1 = int(input())
   lst1 = [int(item) for item in input().split()]
