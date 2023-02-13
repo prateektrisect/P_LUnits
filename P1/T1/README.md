@@ -27,7 +27,7 @@ For the given task the solution is already provided. Refer the steps below to ex
 6. In the **next lab assignment** we will run our code against different test cases
 
 ### Solution / Hint
-a = 10
-b = 20
-sum = a + b
-print(sum)  
+1. a = 10
+2. b = 20
+3. sum = a + b
+4. print(sum)  
