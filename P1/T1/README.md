@@ -27,11 +27,7 @@ For the given task the solution is already provided. Refer the steps below to ex
 6. In the **next lab assignment** we will run our code against different test cases
 
 ### Solution / Hint
-```java
-void solution(){
-    int a = 10;
-    int b = 20;
-    int sum = a + b;
-    System.out.println(sum);  
-}
-```
+a = 10
+b = 20
+sum = a + b
+print(sum)  
