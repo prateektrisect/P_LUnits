@@ -6,7 +6,8 @@ Given two integers as input. Print the sum of these integers.
 **Sample Test Case**
 ```
 Input:
-10 20
+10 
+20
 
 Output:
 30
@@ -19,7 +20,8 @@ sum = 10 + 20 = 30
 **Test Case 1**
 ```
 Input:
-25 15
+25 
+15
 
 Output:
 50
@@ -27,7 +29,8 @@ Output:
 **Test Case 2**
 ```
 Input:
--9 5
+-9 
+5
 
 Output:
 -4
