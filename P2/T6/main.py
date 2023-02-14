@@ -1,6 +1,6 @@
 # Test code
 # Don't change anything in this block
-  n = int(input())
+n = int(input())
   
 # Write your code here 
 # Remember the output should match exactly
