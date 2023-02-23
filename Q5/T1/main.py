@@ -14,6 +14,8 @@ def solution(in_list):
 # Test code
 # Don't change anything in this block
 n = int(input())
-in_list = [int(item) for item in input().split()]
+in_list = []
+for i in range(0, len(n)):
+  in_list.append(input())
 out_list = solution(in_list)
 print(out_list)
