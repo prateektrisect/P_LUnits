@@ -3,7 +3,7 @@
 # need to assign any values to them
 
 def solution(in_list):
-  new_list = []
+  
  
   print() # print final result here
 
