@@ -5,16 +5,13 @@
 
 def solution(in_list):
   new_list = []
-
-
-  print() # print your list here
+ 
+  print() # print final result here
 
 
 
 # Test code
 # Don't change anything in this block
 n = int(input())
-in_list = []
-for i in range(0, len(n)):
-  in_list.append(input())
+in_list = [int(item) for item in input().split()]
 solution(in_list)
