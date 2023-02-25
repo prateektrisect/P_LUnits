@@ -7,7 +7,7 @@ def solution(in_list):
   new_list = []
 
 
-  return new_list
+  print() # print your list here
 
 
 
@@ -17,5 +17,4 @@ n = int(input())
 in_list = []
 for i in range(0, len(n)):
   in_list.append(input())
-out_list = solution(in_list)
-print(out_list)
+solution(in_list)
