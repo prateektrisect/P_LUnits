@@ -1,8 +1,14 @@
+# Write your code inside solution function given below 
+# values to string name st is already given, you don't 
+# need to assign any values to them
+
+def solution(st):
+  
+
+  print()     # print the final result
+
+ 
 # Test code
 # Don't change anything in this block
-  st = input()
-  
-# Write your code here 
-# Remember the output should match exactly 
-# Given string name st, you don't need to assign any value
-# Create a new string with all the lowercase characters
+st = input()
+solution(st)
