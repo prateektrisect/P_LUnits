@@ -3,9 +3,7 @@
 # need to assign any values to them
 
 def solution(in_list):
-
- 
-  print() # print final result here
+   # write your code here
 
 
 
