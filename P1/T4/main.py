@@ -1,8 +1,11 @@
 
-# Remember the output should match exactly
-# Misplaced character, extra spaces, 
-# missing character, letters not in exact case will
-# will fail the test
+# Write your code inside solution function given below 
+# you don't need to assign any values to them
 
-# Write your code here
-    
+def solution(st):
+    # write your code here
+
+ 
+# Test code
+# Don't change anything in this block
+solution()
