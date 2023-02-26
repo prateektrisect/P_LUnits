@@ -1,10 +1,12 @@
+# Write your code inside solution function given below 
+# values to integer n is already given, you don't 
+# need to assign any values to them
+
+def solution(n):
+  # write your code here
+
+ 
 # Test code
 # Don't change anything in this block
-n = int(input())
-
-# Complete the sample code provided below
-for i in range(1, n+1):
-  # write your code here
-  
-
-
+num = int(input())
+solution(num)
