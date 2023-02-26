@@ -1,13 +1,9 @@
+# Write your code inside solution function given below 
+# you don't need to assign any values to them
+
+def solution():
+  #Write your code here
+ 
 # Test code
 # Don't change anything in this block
-  n = int(input())
-  
-  
-
-# Here testing system will provide
-# values to variable n, you don't 
-# need to assign any values to them
-    
-# Write your code here
-
-  
+solution()
