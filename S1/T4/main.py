@@ -1,9 +1,3 @@
-
-# Given square function
-def square(n):
-  squareN = n*n
-  print(square)
-
 # Write your code here
 # Create cube function 
 # you don't need to assign any value to n
@@ -13,8 +7,11 @@ def square(n):
  
 # Test code
 # Don't change anything in this block
-if __name__ == "__main__":
-  n = int(input())
+n = int(input())
+# Given square function
+def square(n):
+  squareN = n*n
+  print(square)
+
   
-# Write your code here 
-# for calling the above defined function
+
