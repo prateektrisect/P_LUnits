@@ -1,5 +1,5 @@
 # Write your code inside solution function given below 
-# values to string name st is already given, you don't 
+# values to n1 and n2 is already given, you don't 
 # need to assign any values to them
 
 def solution(n1, n2):
