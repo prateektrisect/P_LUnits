@@ -1,11 +1,11 @@
+# Write your code inside solution function given below 
+# values to integer name n is already given, you don't 
+# need to assign any values to them
+
+def solution(n):
+  # write your code here
+ 
 # Test code
 # Don't change anything in this block
-  x = int(input())
-  
-  
-# Remember the output should match exactly
-# no need to assign value of x
-# Write your code here
-    
-
-  
+n = int(input())
+solution(n)
