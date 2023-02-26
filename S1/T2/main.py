@@ -7,4 +7,4 @@ def square(n):
   
 # Write your code here
 # print square of 11, 17 and 23
-# using square() function
+# using given above square() function
