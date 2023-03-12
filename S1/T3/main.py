@@ -5,9 +5,12 @@ def square(n):
   squareN = n*n
   print(squareN)
   
-  
-# Given list nmae is lst1
-lst1 = [1, 7, 9, 12]
+# Test code
+# Don't change anything in this block
+n = int(input())
+in_list = [int(item) for item in input().split()]
+solution(in_list)
+
 
 # Write code here
 
