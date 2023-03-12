@@ -5,6 +5,6 @@ def square(n):
   print(squareN)
 
   
-# Write your code here
 # print square of 11, 17 and 23
 # using given above square() function
+# Write your code here
