@@ -12,11 +12,9 @@ def drinks(ele):
 
 # Test code
 # Don't change anything in this block
-if __name__ == "__main__":
-  # For list of integers
-  lst1 = []  
-  n = int(input())
-  lst1 = [int(item) for item in input().split()]
+lst1 = []  
+n = int(input())
+lst1 = [int(item) for item in input().split()]
   
   
   
