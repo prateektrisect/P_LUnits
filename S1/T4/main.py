@@ -11,5 +11,8 @@ def square(n):
 
 # Test code
 # Don't change anything in this block
-n = int(input())
+num = int(input())
 in_list = [int(item) for item in input().split()]
+for i in range(0, len(num)):
+  square(i)
+  cube(i)
