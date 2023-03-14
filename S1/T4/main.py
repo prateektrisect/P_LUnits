@@ -13,6 +13,6 @@ def square(n):
 # Don't change anything in this block
 num = int(input())
 in_list = [int(item) for item in input().split()]
-for i in range(0, len(num)):
-  square(i)
-  cube(i)
+for i in range(0, len(in_list)):
+  square(in_list[i])
+  cube(in_list[i])
