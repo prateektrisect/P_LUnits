@@ -13,5 +13,5 @@ def solution(in_list):
 # Test code
 # Don't change anything in this block
 n = int(input())
-in_list = [int(item) for item in input().split()]
+in_list = [item for item in input().split()]
 solution(in_list)
