@@ -1,26 +1,14 @@
-import java.util.*;
-import java.util.Scanner;
-public class Main{
+# Write your code inside solution function given below 
+# values to list name in_list is already given, you don't 
+# need to assign any values to them
 
-  void solution(int[] array) {
-      
-    // Write code here
-   
-    
-  }
+def solution(in_list):
+  # Write your code here
 
-  //Test code
-  //Don't change anything below this line
-  public static void main(String[] args){
-    Main test = new Main();
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    int[] array = new int[n]; 
-    for(int i=0; i<n; i++)  
-    {  
-         
-        array[i]=sc.nextInt();  
-    }  
-    test.solution(array);
-  }
-}
+
+
+# Test code
+# Don't change anything in this block
+n = int(input())
+in_list = [int(item) for item in input().split()]
+solution(in_list)
