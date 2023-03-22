@@ -14,6 +14,6 @@ lst1 = [int(item) for item in input().split()]
 
 lst2 = []  
 n2 = int(input())
-lst2 = [item for item in input().split()]
+lst2 = [int(item) for item in input().split()]
 solution(lst1, lst2)
 
