@@ -9,7 +9,7 @@ n=2
 
 Output:
 12
-[because 2*2 + 2*3 = 12]
+
 ```
 ## Other Test cases
 **Test Case 1**
@@ -19,7 +19,7 @@ n=9
 
 Output:
 801
-[because 9*2 + 9*3 = 12]
+
 ```
 **Test Case 2**
 ```
@@ -28,7 +28,7 @@ n=11
 
 Output:
 1452 
-[because 112 + 113 = 1452]
+
 ```
 
 ## How to attempt?
