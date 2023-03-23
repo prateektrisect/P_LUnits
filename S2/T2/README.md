@@ -9,7 +9,7 @@ array.
 **Sample Test Case 1**
 ```
 Input:
-{}
+3
 3,5,8
 Output:
 4thPower-3=81
@@ -23,7 +23,7 @@ Output:
 **Sample Test Case 2**
 ```
 Input:
-{}
+3
 4,6,9
 Output:
 4thPower-4=256
