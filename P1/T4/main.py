@@ -2,7 +2,7 @@
 # Write your code inside solution function given below 
 # you don't need to assign any values to them
 
-def solution(st):
+def solution():
     # write your code here
 
  
