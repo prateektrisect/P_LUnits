@@ -1,4 +1,4 @@
-def solution(my_list1):
+def solution(in_list):
       # Write code here
    
     
@@ -8,12 +8,5 @@ def solution(my_list1):
 # Don't change anything below this line
 
 n = int(input())
-my_list1 = [] 
-    for(int i=0; i<n; i++)  
-    {  
-         
-        array[i]=sc.nextInt();  
-    }  
-    test.solution(array);
-  }
-}
+in_list = [int(item) for item in input().split()]
+solution(in_list)
