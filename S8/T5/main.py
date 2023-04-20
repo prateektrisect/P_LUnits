@@ -5,5 +5,8 @@ def solution(in_list):
 
 # Test code
 # Don't change anything below this line
-    solution()
+n = int(input())
+in_list = [int(item) for item in input().split()]
+solution(in_list)
+
   
